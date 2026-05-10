@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Deepu%20Pandey&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Backend%20Developer%20%7C%20Java%20%26%20Spring%20Boot%20%7C%20Open%20Source&descAlignY=60&descColor=a0a0ff&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,50:1a1a2e,100:16213e&height=200&section=header&text=Adarsh%20Srivastava&fontSize=58&fontColor=ffffff&fontAlignY=38&desc=Java%20Developer%20%7C%20Spring%20Boot%20%7C%20Backend%20Engineer&descAlignY=60&descColor=4fc3f7&animation=fadeIn" />
 
 </div>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=6C63FF&center=true&vCenter=true&width=600&lines=Backend+Developer+%F0%9F%9A%80;Java+%26+Spring+Boot+Enthusiast+%E2%98%95;Open+Source+Contributor+%F0%9F%8C%9F;Building+Scalable+Systems+%F0%9F%94%A7;CS+Student+%7C+Problem+Solver+%F0%9F%A7%A0)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=3000&pause=800&color=4FC3F7&center=true&vCenter=true&width=650&lines=Java+%26+Spring+Boot+Developer+%E2%98%95;REST+API+%26+MVC+Architecture+Enthusiast;Building+Scalable+Backend+Systems+%F0%9F%94%A7;Exploring+AI-Powered+Applications+%F0%9F%A4%96;Clean+Code+%7C+Useful+Software+%7C+Meaningful+Products)](https://git.io/typing-svg)
 
 </div>
 
@@ -15,29 +15,26 @@
 ## 👨‍💻 About Me
 
 ```java
-public class DeepuPandey {
+public class AdarshSrivastava {
 
-    String name        = "Deepu Pandey";
-    String role        = "Backend Developer";
-    String[] focus     = {"Java", "Spring Boot", "System Design"};
-    String current     = "AI-driven Bio-Waste Management System";
-    String learning    = "Spring Boot • Docker • Cloud • System Design";
-    String goal        = "Build scalable, efficient backend systems";
-    String funFact     = "I don't just write code, I build systems 🚀";
+    String  name      = "Adarsh Srivastava";
+    String  role      = "Java Backend Developer";
+
+    String[] coreStack = {
+        "Java", "Spring Boot", "REST APIs",
+        "JDBC", "Servlets", "JSP", "MVC Architecture"
+    };
+
+    String[] databases = { "MySQL", "PostgreSQL" };
+
+    String[] exploring = {
+        "TypeScript", "AI-powered applications", "System Design"
+    };
+
+    String mindset = "Build clean, useful, and maintainable software.";
 
 }
 ```
-
----
-
-## 🔥 Current Focus
-
-| 🎯 Project | 📌 Status | 🔗 Link |
-|---|---|---|
-| 🧬 Bio-Waste AI Management System | 🟢 Active | [View Repo](https://github.com/Deepupandey-ui/bio-waste-ai) |
-| 🤝 Open Source @ Codobar | 🟢 Contributing | [codo-zenzo-fe-ms1](https://github.com/codobar/codo-zenzo-fe-ms1) |
-| 📚 Learning Spring Boot + Docker | 🔄 Ongoing | — |
-| 🎯 Goal | Build scalable backend systems | — |
 
 ---
 
@@ -47,51 +44,25 @@ public class DeepuPandey {
 
 ### Languages
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=databricks&logoColor=white)
 
-### Frameworks & Tools
+### Frameworks & Backend
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Spring MVC](https://img.shields.io/badge/Spring_MVC-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-FF6B35?style=for-the-badge&logo=fastapi&logoColor=white)
+![Servlets](https://img.shields.io/badge/Servlets_JSP-007396?style=for-the-badge&logo=java&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
 
-### Database & Cloud
+### Databases
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
-</div>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Deepupandey-ui&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deepupandey-ui&layout=compact&langs_count=7&theme=tokyonight&hide_border=true"/>
-
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=Deepupandey-ui&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
-
-</div>
-
----
-
-## 🏆 Achievements
-
-<div align="center">
-
-| 🏅 Achievement | 📝 Details |
-|---|---|
-| 🧠 160+ Days Coding Streak | Consistent DSA practice — never stopped |
-| 🇮🇳 Smart India Hackathon | National-level hackathon participant |
-| 🌍 Open Source Contributor | Active contributor @ Codobar |
-| 👨‍🏫 Teaching Experience | 3 months of mentoring peers |
+### Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 </div>
 
@@ -99,23 +70,90 @@ public class DeepuPandey {
 
 ## 🚀 Featured Projects
 
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🤖 PostMortemPro
+AI-powered web app that converts short incident details into structured post-mortem reports automatically.
+
+**Stack:** TypeScript · AI Integration · Web App Architecture
+
+[![Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Adarsh-afk661/PostMortemPro)
+
+</td>
+<td width="50%" valign="top">
+
+### 🛒 GoCart E-Commerce Platform
+Full-stack Java e-commerce platform with transaction management, REST APIs, and MVC architecture.
+
+**Stack:** Java · Spring Boot · JDBC · PostgreSQL
+
+[![Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Adarsh-afk661/ecommerce-Platform)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 💬 WhatsApp Chatbot Simulation
+Layered Spring Boot REST API simulating a WhatsApp chatbot webhook with clean architecture.
+
+**Stack:** Java · Spring Boot · Maven · REST API
+
+[![Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Adarsh-afk661/whatsapp-chatbot-simulation)
+
+</td>
+<td width="50%" valign="top">
+
+### 📝 Java Online Quiz Platform
+Role-based quiz platform with admin, creator, and participant workflows built with Java EE stack.
+
+**Stack:** Java · JSP · Servlets · JDBC · MySQL
+
+[![Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Adarsh-afk661/Java-Online-Quiz-Platform)
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📊 GitHub Stats
+
 <div align="center">
 
-[![bio-waste-ai](https://github-readme-stats.vercel.app/api/pin/?username=Deepupandey-ui&repo=bio-waste-ai&theme=tokyonight&hide_border=true)](https://github.com/Deepupandey-ui/bio-waste-ai)
-[![hostel-room-allocation](https://github-readme-stats.vercel.app/api/pin/?username=Deepupandey-ui&repo=hostel-room-allocation&theme=tokyonight&hide_border=true)](https://github.com/Deepupandey-ui/hostel-room-allocation)
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Adarsh-afk661&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adarsh-afk661&layout=compact&langs_count=6&theme=tokyonight&hide_border=true"/>
 
-[![Cattle-Buffalo-Breed-Classification](https://github-readme-stats.vercel.app/api/pin/?username=Deepupandey-ui&repo=Cattle-Buffalo-Breed-Classification&theme=tokyonight&hide_border=true)](https://github.com/Deepupandey-ui/Cattle-Buffalo-Breed-Classification)
-[![Student_Managment_System](https://github-readme-stats.vercel.app/api/pin/?username=Deepupandey-ui&repo=Student_Managment_System&theme=tokyonight&hide_border=true)](https://github.com/Deepupandey-ui/Student_Managment_System)
+</div>
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Adarsh-afk661&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 </div>
 
 ---
 
-## 📈 Contribution Activity
+## 🎯 Current Focus
+
+```
+🔹 Java & Spring Boot backend development
+🔹 REST API design and best practices
+🔹 MVC and layered architecture patterns
+🔹 MySQL and PostgreSQL database projects
+🔹 AI-powered application development
+🔹 Building clean, practical, and maintainable software
+```
+
+---
+
+## 📈 Contribution Graph
 
 <div align="center">
 
-[![Deepu's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Deepupandey-ui&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Adarsh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Adarsh-afk661&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
@@ -125,9 +163,9 @@ public class DeepuPandey {
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/deepu-pandey-060888351)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Deepupandey-ui)
-[![Codolio](https://img.shields.io/badge/Codolio-6C63FF?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAABGdBTUEAALGPC/xhBQAAAAlwSFlzAAAOwwAADsMBx2+oZAAAAFBJREFUKFNj/P//PwMlmIEKYKRUA4OSkpIBmMnIyMgAZTEyMjKAeUBFDAwMDGAeUBFQMVAxkAcUBFQMYgEVAxWDWEDFQMUgFlAxUDGQBQD4tQ4RHsWnFQAAAABJRU5ErkJggg==&logoColor=white)](https://codolio.com/profile/Deepu%20Pandey)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Adarsh-afk661)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin-here)
+[![Portfolio](https://img.shields.io/badge/Portfolio-4FC3F7?style=for-the-badge&logo=vercel&logoColor=white)](#)
 
 </div>
 
@@ -135,12 +173,14 @@ public class DeepuPandey {
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=Deepupandey-ui&color=6C63FF&style=for-the-badge&label=Profile+Views)
+![Profile Views](https://komarev.com/ghpvc/?username=Adarsh-afk661&color=4fc3f7&style=for-the-badge&label=Profile+Views)
+
+*"Build clean, useful, and maintainable software."*
 
 </div>
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0a0a0a&height=120&section=footer&animation=fadeIn" />
 
 </div>
