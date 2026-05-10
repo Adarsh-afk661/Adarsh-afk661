@@ -1,16 +1,71 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Adarsh Srivastava</h1>
 
-<!--
-**Adarsh-afk661/Adarsh-afk661** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">
+Backend Developer | Java | Spring Boot | DSA Enthusiast
+</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Java+Developer;Spring+Boot+Learner;Open+Source+Contributor;Backend+Developer">
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Me
+
+- 🌱 Currently learning **Spring Boot & System Design**
+- 💻 Solving DSA problems regularly
+- 🔭 Working on backend projects
+- ⚡ Interested in scalable systems & APIs
+- 🎯 Goal: Become a strong Backend Engineer
+
+---
+
+## 🛠️ Tech Stack
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=java,spring,mysql,git,github,docker,linux,cpp,python" />
+</p>
+
+---
+
+## 📌 Featured Projects
+
+### 🔹 Bio Waste Management System
+- AI-based waste management project
+- Backend focused architecture
+- Java + Spring Boot
+
+### 🔹 Open Source Contributions
+- Contributed in GitHub open-source repositories
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Adarsh-afk661&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Adarsh-afk661&theme=tokyonight" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adarsh-afk661&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+<a href="https://linkedin.com/in/YOUR-LINKEDIN">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+</p>
+
+---
+
+## 👀 Profile Views
+
+![](https://komarev.com/ghpvc/?username=Adarsh-afk661&color=blue)
