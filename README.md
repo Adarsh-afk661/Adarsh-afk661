@@ -1,120 +1,105 @@
 <div align="center">
 
-<!-- Top accent bar via capsule render -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6366f1,50:06b6d4,100:10b981&height=4&section=header" width="100%"/>
+<h1>Hi 👋, I'm Adarsh Srivastava</h1>
+
+<h3>⚙️ Java Backend Developer | Spring Boot | REST API Engineer</h3>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=800&color=6366F1&center=true&vCenter=true&width=600&lines=Java+%26+Spring+Boot+Developer+%E2%98%95;Building+Scalable+Backend+Systems+%F0%9F%94%A7;REST+API+%7C+MVC+Architecture+Enthusiast;Exploring+AI-Powered+Applications+%F0%9F%A4%96)](https://git.io/typing-svg)
 
 </div>
 
-<br/>
+---
 
-<table width="100%">
-<tr>
-<td width="68%" valign="top">
+## 🧑‍💻 About Me
 
-<sub>BACKEND ENGINEER · INDIA</sub>
-
-# Adarsh Srivastava
-
-**Java Developer &nbsp;/&nbsp; Spring Boot &nbsp;/&nbsp; REST APIs &nbsp;/&nbsp; System Builder**
-
-![Open to work](https://img.shields.io/badge/Open%20to%20work-6366f1?style=flat-square&logoColor=white)
-![Building scalable systems](https://img.shields.io/badge/Building%20scalable%20systems-gray?style=flat-square)
-![Exploring AI apps](https://img.shields.io/badge/Exploring%20AI%20apps-gray?style=flat-square)
-
-</td>
-<td width="32%" align="center" valign="middle">
-
-[![GitHub](https://img.shields.io/badge/GitHub-Adarsh--afk661-181717?style=for-the-badge&logo=github)](https://github.com/Adarsh-afk661)
-
-</td>
-</tr>
-</table>
+Backend-focused developer with a strong interest in building scalable and efficient systems.
+Currently working on Java-based web applications while exploring AI-powered tools and system design.
+Focused on clean architecture, problem-solving, and continuously improving backend performance.
 
 ---
 
-## Tech Stack
+## 🎯 Current Focus
 
-**Languages**
-
-![Java](https://img.shields.io/badge/Java-e65100?style=flat-square&logo=openjdk&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-1a237e?style=flat-square&logo=typescript&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-0d47a1?style=flat-square&logo=postgresql&logoColor=white)
-
-**Frameworks & Backend**
-
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-1b5e20?style=flat-square&logo=springboot&logoColor=white)
-![Spring MVC](https://img.shields.io/badge/Spring_MVC-1b5e20?style=flat-square&logo=spring&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-bf360c?style=flat-square&logo=fastapi&logoColor=white)
-![Servlets/JSP](https://img.shields.io/badge/Servlets%2FJSP-e65100?style=flat-square&logo=java&logoColor=white)
-![JDBC](https://img.shields.io/badge/JDBC-e65100?style=flat-square&logo=java&logoColor=white)
-![Maven](https://img.shields.io/badge/Maven-b71c1c?style=flat-square&logo=apachemaven&logoColor=white)
-
-**Databases**
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d47a1?style=flat-square&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-01579b?style=flat-square&logo=mysql&logoColor=white)
-
-**Tools**
-
-![Git](https://img.shields.io/badge/Git-4a148c?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-212121?style=flat-square&logo=github&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-4a148c?style=flat-square&logo=intellij-idea&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-bf360c?style=flat-square&logo=postman&logoColor=white)
+- 🔵 **Building:** [eCommerce Platform](https://github.com/Adarsh-afk661/ecommerce-Platform) · [PostMortemPro](https://github.com/Adarsh-afk661/PostMortemPro)
+- 📂 **Open Source or Contributions:** [github.com/Adarsh-afk661](https://github.com/Adarsh-afk661)
+- 📚 **Learning:** Spring Boot, System Design, AI Integration
+- 🎯 **Goal:** Build scalable backend systems
 
 ---
 
-## Featured Projects
-
-| Project | Description | Stack | Link |
-|:--------|:------------|:------|:----:|
-| **PostMortemPro** | AI-powered app that auto-converts incident details into structured post-mortem reports | `TypeScript` `AI Integration` `Web App` | [![repo](https://img.shields.io/badge/repo-181717?style=flat-square&logo=github)](https://github.com/Adarsh-afk661/PostMortemPro) |
-| **GoCart E-Commerce** | Full-stack Java e-commerce with transaction management, REST APIs and MVC architecture | `Java` `Spring Boot` `PostgreSQL` | [![repo](https://img.shields.io/badge/repo-181717?style=flat-square&logo=github)](https://github.com/Adarsh-afk661/ecommerce-Platform) |
-| **WhatsApp Bot Simulation** | Layered Spring Boot REST API simulating a WhatsApp chatbot webhook with clean architecture | `Java` `Spring Boot` `Maven` | [![repo](https://img.shields.io/badge/repo-181717?style=flat-square&logo=github)](https://github.com/Adarsh-afk661/whatsapp-chatbot-simulation) |
-| **Java Online Quiz Platform** | Role-based quiz platform with Admin, Creator and Participant workflows using Java EE | `Java` `JSP` `Servlets` `MySQL` | [![repo](https://img.shields.io/badge/repo-181717?style=flat-square&logo=github)](https://github.com/Adarsh-afk661/Java-Online-Quiz-Platform) |
-
----
-
-## GitHub Stats
+## 🛠️ Tech Stack
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=Adarsh-afk661&show_icons=true&theme=default&include_all_commits=true&count_private=true&hide_border=true&title_color=6366f1&icon_color=06b6d4&ring_color=6366f1"/>
+<img src="https://skillicons.dev/icons?i=java,spring,maven,ts,js,mysql,postgres,git,github,idea,postman,vscode&theme=light" />
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Adarsh-afk661&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" height="165"/>
 &nbsp;
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adarsh-afk661&layout=compact&langs_count=6&hide_border=true&title_color=6366f1"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adarsh-afk661&layout=compact&langs_count=6&theme=tokyonight&hide_border=true" height="165"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=Adarsh-afk661&hide_border=true&ring=6366f1&fire=06b6d4&currStreakLabel=6366f1"/>
+<img src="https://streak-stats.demolab.com?user=Adarsh-afk661&theme=tokyonight&hide_border=true" />
 
 </div>
 
 ---
 
-## Currently Focused On
+## 🏆 Achievements
 
-&nbsp;&nbsp;🟣 &nbsp;Spring Boot backend development  
-&nbsp;&nbsp;🔵 &nbsp;REST API design best practices  
-&nbsp;&nbsp;🟢 &nbsp;MVC and layered architecture patterns  
-&nbsp;&nbsp;🟡 &nbsp;AI-powered application development  
-&nbsp;&nbsp;🩷 &nbsp;System design patterns  
-&nbsp;&nbsp;🟤 &nbsp;Open source contributions  
+- 🥇 **100+ Days Coding Streak**
+- 🚀 **Smart India Hackathon Participant**
+- 💻 **Open Source Contributor**
+- 🎓 **Teaching Experience (3+ Months)**
 
 ---
 
-## Connect
-
-[![GitHub](https://img.shields.io/badge/GitHub-%40Adarsh--afk661-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Adarsh-afk661)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin-here)
-[![Email](https://img.shields.io/badge/Email-Reach_Out-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
-
----
+## 🌐 Connect With Me
 
 <div align="center">
 
-*"Build clean, useful, and maintainable software."*
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin-here)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Adarsh-afk661)
+[![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6366f1,50:06b6d4,100:10b981&height=4&section=footer" width="100%"/>
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Adarsh-afk661/Adarsh-afk661/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Adarsh-afk661/Adarsh-afk661/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Adarsh-afk661/Adarsh-afk661/output/github-contribution-grid-snake.svg" />
+</picture>
+
+</div>
+
+---
+
+## ⚡ Fun Fact
+
+> I don't just write code — I build systems 🔧
+
+---
+
+## 👁️ Profile Views
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=Adarsh-afk661&color=6366f1&style=for-the-badge&label=Profile+Views)
 
 </div>
